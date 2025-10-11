@@ -20,7 +20,7 @@ export default function GithubProfileCard({prof}) {
             <div className="blog-header">
               <p className="subTitle blog-subtitle">{contactInfo.subtitle}</p>
             </div>
-			<div className="location-div">
+            <div className="location-div">
               <a
                 className="desc-prof"
                 href={"mailto:" + contactInfo.email_address}

@@ -49,17 +49,20 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "PASSIONATE GAME DEVELOPER WHO LOVES BUILDING IMMERSIVE EXPERIENCES",
+  subTitle:
+    "PASSIONATE GAME DEVELOPER WHO LOVES BUILDING IMMERSIVE EXPERIENCES",
   skills: [
     emoji("⚡ Design and develop engaging gameplay systems and mechanics"),
-    emoji("⚡ Create optimized, responsive, and immersive player experiences across platforms"),
+    emoji(
+      "⚡ Create optimized, responsive, and immersive player experiences across platforms"
+    ),
     emoji("⚡ Experiment with engines and cutting-edge game technologies")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
-softwareSkills: [
+  softwareSkills: [
     {
       skillName: "Unity",
       fontAwesomeClassname: "mdi mdi-unity"
@@ -71,7 +74,8 @@ softwareSkills: [
     {
       skillName: "Godot",
       fontAwesomeClassname: "mdi mdi-engine"
-    },{
+    },
+    {
       skillName: "C",
       fontAwesomeClassname: "mdi mdi-language-c"
     },
@@ -94,7 +98,7 @@ softwareSkills: [
     {
       skillName: "Git",
       fontAwesomeClassname: "mdi mdi-git"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -112,7 +116,7 @@ const educationInfo = {
       desc: "Took courses about Gameplay Programming, Graphics Rendering, Physics Simulation, Pathfinding and AI Algorithms, Virtual Reality, Procedural Generation, and many other things",
       descBullets: []
     },
-	{
+    {
       schoolName: "Lycée Georges Brassens",
       logo: require("./assets/images/GeorgesBrassens.jpg"),
       subHeader: "BTS – Digital Systems: Computer Science and Networks",
@@ -140,7 +144,7 @@ const techStack = {
       Stack: "Programming",
       progressPercentage: "65%"
     },
-	{
+    {
       Stack: "Debugging",
       progressPercentage: "60%"
     }
@@ -158,7 +162,7 @@ const workExperiences = {
       company: "Université Lumière Lyon 2",
       companylogo: require("./assets/images/lyon2.jpg"),
       date: "May 2024 – August 2024",
-      desc: "Developed a serious game using Godot, playable in a web browser, aimed at training staff and students on ecological transition. Implemented game/Moodle communication for data transfer.",
+      desc: "Developed a serious game using Godot, playable in a web browser, aimed at training staff and students on ecological transition. Implemented game/Moodle communication for data transfer."
     },
     {
       role: "C#/WPF Developer intern",
@@ -200,7 +204,8 @@ const bigProjects = {
     {
       image: require("./assets/images/PFAS.png"),
       projectName: "FluoroBreaker",
-      projectDesc: "Lead Developer on PFAS: responsible for gameplay systems, camera behavior, and UI integration, as well as overall project coordination and debugging, ensuring steady progress across a small four-person team.",
+      projectDesc:
+        "Lead Developer on PFAS: responsible for gameplay systems, camera behavior, and UI integration, as well as overall project coordination and debugging, ensuring steady progress across a small four-person team.",
       footerLink: [
         {
           name: "Itchio",
