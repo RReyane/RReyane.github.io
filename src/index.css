@@ -6,7 +6,8 @@
 }
 @font-face {
   font-family: "Hunters";
-  src: local("Hunters"), url("./assets/fonts/Hunters K-Pop.otf") format("woff");
+  src: local("Hunters"), 
+    url("./assets/fonts/HuntersK-Pop.otf") format("woff");
   font-display: swap;
 }
 code {
