@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8fd14bf2.css",
+    "main.css": "/static/css/main.37ccfb96.css",
     "main.js": "/static/js/main.d8d97806.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.ea84ee9e.chunk.js": "/static/js/487.ea84ee9e.chunk.js",
@@ -12,16 +12,18 @@
     "static/media/PFAS.png": "/static/media/PFAS.635f965409b2f26f1202.png",
     "static/media/Actemium.jpg": "/static/media/Actemium.232c0e0ce902e63d09e0.jpg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
-    "static/media/Hunters K-Pop.otf": "/static/media/Hunters K-Pop.fd1c22c781f8ef617e7e.otf",
+    "static/media/HuntersK-Pop.otf": "/static/media/HuntersK-Pop.fd1c22c781f8ef617e7e.otf",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/lyon2.jpg": "/static/media/lyon2.5989ad86a74591965156.jpg",
+    "static/media/HuntersK-Pop.woff": "/static/media/HuntersK-Pop.c0f58fa60fd49d3e33ae.woff",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/HuntersK-Pop.woff2": "/static/media/HuntersK-Pop.ca583bc5bd11645fc823.woff2",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.8fd14bf2.css.map": "/static/css/main.8fd14bf2.css.map",
+    "main.37ccfb96.css.map": "/static/css/main.37ccfb96.css.map",
     "main.d8d97806.js.map": "/static/js/main.d8d97806.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.ea84ee9e.chunk.js.map": "/static/js/487.ea84ee9e.chunk.js.map",
@@ -29,7 +31,7 @@
     "990.89a4d0d2.chunk.js.map": "/static/js/990.89a4d0d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fd14bf2.css",
+    "static/css/main.37ccfb96.css",
     "static/js/main.d8d97806.js"
   ]
 }
