@@ -9,7 +9,7 @@
   src: local("Hunters"),
     url("./assets/fonts/HuntersK-Pop.woff2") format("woff2"),
     url("./assets/fonts/HuntersK-Pop.woff") format("woff"),
-    url("./assets/fonts/HuntersK-Pop.otf") format("woff");
+    url("./assets/fonts/HuntersK-Pop.otf") format("opentype");
   font-display: swap;
 }
 code {
